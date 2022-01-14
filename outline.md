@@ -1,13 +1,13 @@
 Job:
-    - title
+    + title 
     - location
-    - job type
-    - description
-    - published at
-    - vacancy
-    - salary
+    + job type
+    + description
+    + published at
+    + vacancy
+    + salary
     - category
-    - experince
+    + experince
 
 
     - Apply jop 
